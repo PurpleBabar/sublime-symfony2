@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[{% include '${0:$SELECTION}' %}]]></content>
+    <tabTrigger>include</tabTrigger>
+    <scope>text.html.twig</scope>
+    <description>Symfony2 / Twig / Tag / trans</description>
+</snippet>
